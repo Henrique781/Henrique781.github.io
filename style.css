@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: 'Annie Use Your Telescope', Arial, Helvetica, sans-serif;
+}
+
+ul {
+  text-align: left;
+}
+
+h1, h2, h3 {
+  color: blue;
+}
+
+p {
+  line-height: 30px;
+}
