@@ -14,3 +14,16 @@ h1, h2, h3 {
 p {
   line-height: 30px;
 }
+
+#about-me {
+  height: 300px;
+}
+
+#about-me img {
+  float: left;
+  padding-left: 50px;
+}
+
+#about-me p {
+  padding-top: 100px;
+}
